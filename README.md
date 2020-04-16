@@ -1,4 +1,4 @@
-# JavaScript--Pete-the-Baker.
+# JavaScript--Pete-the-Baker Solution
 function cakes(recipe, available) {
 var leftOvers = {};
 var canMakeCake = false;
